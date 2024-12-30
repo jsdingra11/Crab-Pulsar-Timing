@@ -40,7 +40,7 @@ We are a diverse team of astrophysics enthusiasts and data analysts, united by o
 - **`scripts/`**: Python scripts for data analysis and timing calculations.  
 - **`notebooks/`**: Jupyter notebooks with step-by-step analyses.  
 - **`results/`**: Output plots and calculated parameters.  
-- **`docs/`**: Detailed documentation and reports.  
+- **`docs/`**: Detailed documentation and reports.  `can be provided on demand`
 
 ## 🌌 Join Us  
 
